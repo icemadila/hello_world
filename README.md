@@ -1,2 +1,3 @@
 # hello_world
-Just Another Repository
+
+Hi Humans, just a bit of code...getting this repository thing straight
